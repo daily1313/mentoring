@@ -1,7 +1,7 @@
 
 <hr>
 <h2>
-  ※다양한 기능을 구현하기 위한 RestAPI 설계(Exception, Response 등)※
+  ※다양한 기능을 구현하기위한 RestAPI 설계(Exception, Response 등)※
 </h2>
 </hr>
 
