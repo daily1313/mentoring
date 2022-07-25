@@ -1,5 +1,4 @@
-# mentoring
-스프링부트 스터디
+
 <hr>
 <h2>
   ※다양한 기능을 구현하기 위한 RestAPI 설계(Exception, Response 등)※
